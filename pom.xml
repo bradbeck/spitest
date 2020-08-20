@@ -9,10 +9,10 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <spifly.version>1.2.3</spifly.version>
-    <groovy.version>3.0.2</groovy.version>
-    <slf4j.version>1.7.25</slf4j.version>
-    <exam.version>4.13.2</exam.version>
+    <spifly.version>1.2.4</spifly.version>
+    <groovy.version>3.0.5</groovy.version>
+    <slf4j.version>1.7.30</slf4j.version>
+    <exam.version>4.13.3</exam.version>
     <url.version>2.6.2</url.version>
     <felix.version>6.0.3</felix.version>
   </properties>
